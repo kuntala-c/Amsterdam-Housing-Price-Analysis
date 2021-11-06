@@ -8,4 +8,4 @@ Data Analysis and visualization of the Amsterdam Housing Price market
 
 
 Libraries Used: 
-Numpy,Pandas,Matplotlib
+Numpy,Pandas,Matplotlib.
