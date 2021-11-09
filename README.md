@@ -12,7 +12,7 @@ Numpy,Pandas,Matplotlib.
 
 
 **Description:**
-We performed some data analysis and visualization on our dataset after data cleaning and adding two new columns (Price_per_sqm and Zip_number). So, here are the key findings from our data analysis:
+We performed some data analysis and visualization on our dataset after data cleaning and adding two new columns (Price_per_sqm and Zip_number). 
 
 We Choose the Amsterdam Central Station (lat 52.378901,lon 4.9005805) as Amsterdam city center.
 
